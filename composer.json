@@ -1,0 +1,22 @@
+{
+    "name": "leon4w/taobao-sdk",
+    "description": "taobao-sdk-PHP-auto_1571824324541-20191027",
+    "keywords": ["taobao", "api", "top", "sdk"],
+    "authors": [
+        {
+            "name": "leon4w",
+            "email": "slw.plus@gmail.com"
+        }
+    ],
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">= 5.2.0",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "files": [
+            "TopSdk.php"
+        ]
+    }
+}
